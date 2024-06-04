@@ -31,4 +31,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 (Linktree-Sun-and-Night) é um agregador de links para usar como cartão de visitas online.
 
-              Feito por | Gabriel Moura_dev
+Developed by >Gabriel Moura_dev
